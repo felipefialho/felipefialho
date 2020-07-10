@@ -6,18 +6,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 Would you like to find me?
 
-<ul>
-  <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87080479-1c5e0880-c1fe-11ea-8b24-3d93a53f5d75.png" width="16" alt="FF">
-    <a href="https://www.felipefialho.com/blog/" target="_blank" title="My Blog">Blog</a>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="16" alt="Twitter"> 
-    <a href="https://twitter.com/felipefialho_" target="_blank" title="My Twitter">Twitter</a>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="16" alt="Linkedin"> 
-    <a href="https://www.linkedin.com/in/felipefialho/" target="_blank" title="My LinkedIn">LinkedIn</a>
-  </li>
-</ul>
+[![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://felipefialho.com/blog)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
 
