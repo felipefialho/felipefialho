@@ -11,5 +11,20 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
 
+📽️ Latest Videos on YouTube
+
+- [O que Front-end Developers precisam saber](https://youtu.be/GRStdYGAmrQ)
+- [Prática x Teoria - Quando aprendemos e quando entendemos?](https://youtu.be/m5xzfqham94)
+- [14 Hábitos de Desenvolvedores Altamente Produtivos - Resenha do Livro](https://youtu.be/SootACbN5YY)
+
+📓 Latest Blog Posts
+
+- [Prática x Teoria - Quando aprendemos e quando entendemos?](https://www.felipefialho.com/blog/pratica-teoria-quando-aprendemos-e-quando-entendemos/)
+- [Variáveis CSS: Os superpoderes das variáveis nativas do CSS](https://www.felipefialho.com/blog/os-superpoderes-das-variaveis-nativas-do-css/)
+- [CSS Grid e Flexbox - Quando utilizar?](https://www.felipefialho.com/blog/css-grid-e-flexbox-quando-utilizar/)
+
+____
+
+
 [![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=felipefialho&count_private=true)](https://github.com/felipefialho)
 
