@@ -13,9 +13,9 @@ Would you like to find me?
 
 📽️ Latest Videos on YouTube 🇧🇷
 
+- [SEM JAVASCRIPT - Collapse com HTML e CSS em 5min!](https://youtu.be/j5VcN8A_zqQ)
 - [O que Front-end Developers precisam saber](https://youtu.be/GRStdYGAmrQ)
 - [Prática x Teoria - Quando aprendemos e quando entendemos?](https://youtu.be/m5xzfqham94)
-- [14 Hábitos de Desenvolvedores Altamente Produtivos - Resenha do Livro](https://youtu.be/SootACbN5YY)
 
 📓 Latest Blog Posts 🇧🇷
 
