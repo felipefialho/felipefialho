@@ -13,9 +13,9 @@ Would you like to find me?
 
 📽️ Latest Videos on YouTube 🇧🇷
 
+- [Meu PRIMEIRO SITE feito em 2007](https://youtu.be/t0UofLdSDKg)
 - [SEM JAVASCRIPT - Collapse com HTML e CSS em 5min!](https://youtu.be/j5VcN8A_zqQ)
 - [O que Front-end Developers precisam saber](https://youtu.be/GRStdYGAmrQ)
-- [Prática x Teoria - Quando aprendemos e quando entendemos?](https://youtu.be/m5xzfqham94)
 
 📓 Latest Blog Posts 🇧🇷
 
