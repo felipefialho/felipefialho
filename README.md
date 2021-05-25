@@ -11,9 +11,9 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
 
-📽️ Latest Videos on YouTube 🇧🇷
+📽️ Some videos on YouTube 🇧🇷
 
-- [Meu PRIMEIRO SITE feito em 2007](https://youtu.be/t0UofLdSDKg)
+- [OPEN SOURCE - Como CONTRIBUIR e como FUNCIONA](https://youtu.be/91UESJF0gjk)
 - [SEM JAVASCRIPT - Collapse com HTML e CSS em 5min!](https://youtu.be/j5VcN8A_zqQ)
 - [O que Front-end Developers precisam saber](https://youtu.be/GRStdYGAmrQ)
 
