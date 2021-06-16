@@ -17,7 +17,7 @@ Would you like to find me?
 - [SEM JAVASCRIPT - Collapse com HTML e CSS em 5min!](https://youtu.be/j5VcN8A_zqQ)
 - [O que Front-end Developers precisam saber](https://youtu.be/GRStdYGAmrQ)
 
-📓 Latest Blog Posts 🇧🇷
+📓 Some Blog Posts 🇧🇷
 
 - [Prática x Teoria - Quando aprendemos e quando entendemos?](https://www.felipefialho.com/blog/pratica-teoria-quando-aprendemos-e-quando-entendemos/)
 - [Variáveis CSS: Os superpoderes das variáveis nativas do CSS](https://www.felipefialho.com/blog/os-superpoderes-das-variaveis-nativas-do-css/)
