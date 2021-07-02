@@ -26,5 +26,5 @@ Would you like to find me?
 ____
 
 
-[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=felipefialho&theme=dark&show_icons=true&count_private=true)](https://github.com/felipefialho)
+[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=felipefialho&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/felipefialho)
 
