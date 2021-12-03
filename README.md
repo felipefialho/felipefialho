@@ -27,4 +27,5 @@ ____
 
 
 [![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=felipefialho&include_all_commits=true&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/felipefialho)
+[![Felipe GitHub Trends](https://api.githubtrends.io/user/svg/felipefialho/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark)](https://www.githubtrends.io/wrapped/felipefialho)
 
