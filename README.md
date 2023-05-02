@@ -27,5 +27,5 @@ ____
 
 [![Felipe's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=felipefialho&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,COLLABORATOR&include_orgs=true&hide=contribs)](https://github.com/felipefialho)
 <br>
-[![Felipe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipefialho&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&time_range=last_year)](https://wakatime.com/@felipefialho)
+[![Felipe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipefialho&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@felipefialho)
 
