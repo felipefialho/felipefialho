@@ -25,7 +25,7 @@ Would you like to find me?
 
 ____
 
-[![Felipe's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=felipefialho&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,COLLABORATOR&include_orgs=true&hide=contribs)](https://github.com/felipefialho)
+[![Felipe's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=felipefialho&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)
 <br>
 [![Felipe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipefialho&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@felipefialho)
 
