@@ -13,15 +13,14 @@ Would you like to find me?
 
 📽️ Some videos on YouTube 🇧🇷
 
-- [OPEN SOURCE - Como CONTRIBUIR e como FUNCIONA](https://youtu.be/91UESJF0gjk)
-- [SEM JAVASCRIPT - Collapse com HTML e CSS em 5min!](https://youtu.be/j5VcN8A_zqQ)
-- [O que Front-end Developers precisam saber](https://youtu.be/GRStdYGAmrQ)
+- [A Inteligência Artificial (não) vai te substituir (ainda)](https://youtu.be/Ptd1iBmm29Y)
+- [Analysis Paralysis está te paralizando](https://youtu.be/7qWfsHjQTPc)
 
 📓 Some Blog Posts 🇧🇷
 
-- [Prática x Teoria - Quando aprendemos e quando entendemos?](https://www.felipefialho.com/blog/pratica-teoria-quando-aprendemos-e-quando-entendemos/)
-- [Variáveis CSS: Os superpoderes das variáveis nativas do CSS](https://www.felipefialho.com/blog/os-superpoderes-das-variaveis-nativas-do-css/)
-- [CSS Grid e Flexbox - Quando utilizar?](https://www.felipefialho.com/blog/css-grid-e-flexbox-quando-utilizar/)
+- [Como tá o desenvolvimento Front-end em 2025 e o que esperar do futuro](https://felipefialho.com/blog/como-esta-o-desenvolvimento-frontend-em-2025-e-o-que-esperar-do-futuro/)
+- [Sobre senioridade e o que vem depois de senior](https://felipefialho.com/blog/sobre-senioridade-e-o-que-vem-depois-de-senior//)
+- [Como melhorar performance em aplicações web](https://felipefialho.com/blog/como-melhorar-performance-em-aplicacoes-web/)
 
 ____
 
