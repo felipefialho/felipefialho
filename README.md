@@ -13,8 +13,9 @@ Would you like to find me?
 
 📽️ Some videos on YouTube 🇧🇷
 
+- [O Front-end vai acabar? O que esperar do futuro](https://youtu.be/mf5hW0lsdQo)
 - [A Inteligência Artificial (não) vai te substituir (ainda)](https://youtu.be/Ptd1iBmm29Y)
-- [Analysis Paralysis está te paralizando](https://youtu.be/7qWfsHjQTPc)
+- [Pare de analisar e comece a fazer!](https://youtu.be/7qWfsHjQTPc)
 
 📓 Some Blog Posts 🇧🇷
 
