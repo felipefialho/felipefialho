@@ -13,9 +13,9 @@ Would you like to find me?
 
 📽️ Some videos on YouTube 🇧🇷
 
+- [Como ser dev e não enloquecer](https://youtu.be/MGmp3NQjMuo)
 - [O Front-end vai acabar? O que esperar do futuro](https://youtu.be/mf5hW0lsdQo)
 - [A Inteligência Artificial (não) vai te substituir (ainda)](https://youtu.be/Ptd1iBmm29Y)
-- [Pare de analisar e comece a fazer!](https://youtu.be/7qWfsHjQTPc)
 
 📓 Some Blog Posts 🇧🇷
 
