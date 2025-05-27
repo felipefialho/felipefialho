@@ -13,6 +13,7 @@ Would you like to find me?
 
 📽️ Some videos on YouTube 🇧🇷
 
+- [Arquitetura de Software - Abstrações não deixam seu código escalar](https://youtu.be/-GnsFbfH3rY)
 - [Como ser dev e não enloquecer](https://youtu.be/MGmp3NQjMuo)
 - [O Front-end vai acabar? O que esperar do futuro](https://youtu.be/mf5hW0lsdQo)
 - [A Inteligência Artificial (não) vai te substituir (ainda)](https://youtu.be/Ptd1iBmm29Y)
