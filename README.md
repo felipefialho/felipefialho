@@ -13,6 +13,7 @@ Would you like to find me?
 
 📽️ Some videos on YouTube 🇧🇷
 
+- [IA x DEVs: A realidade em 2025](https://youtu.be/qq7alrbaTt0)
 - [O que aconteceu com o CSS?](https://youtu.be/LAA4gMU04zY)
 - [Arquitetura de Software - Como escalo meu código](https://youtu.be/-GnsFbfH3rY)
 - [Como ser dev e não enloquecer](https://youtu.be/MGmp3NQjMuo)
