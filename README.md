@@ -13,7 +13,7 @@ Would you like to find me?
 
 📽️ Some videos on YouTube 🇧🇷
 
-- [Vida longa ao TRABALLHO REMOTO](https://www.youtube.com/watch?v=K0mo4X1pOUY)
+- [Vida longa ao TRABALHO REMOTO](https://www.youtube.com/watch?v=K0mo4X1pOUY)
 - [IA x DEVs: A realidade em 2025](https://youtu.be/qq7alrbaTt0)
 - [O que aconteceu com o CSS?](https://youtu.be/LAA4gMU04zY)
 - [Arquitetura de Software - Como escalo meu código](https://youtu.be/-GnsFbfH3rY)
