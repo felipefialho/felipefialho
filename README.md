@@ -7,12 +7,13 @@ In my free time I like to play (and watch) football (⚽️), bodybuilding and f
 Would you like to find me?
 
 [![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://felipefialho.com/blog)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/felipefialhovlog)](https://youtube.com/c/FelipeFialhoDev)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/felipefialhodev)](https://youtube.com/c/FelipeFialhoDev)
 [![Blog Badge](https://img.shields.io/badge/x-@felipefialho_-black)](https://x.com/felipefialho_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
 
 📽️ Some videos on YouTube 🇧🇷
 
+- [Vida longa ao TRABALLHO REMOTO](https://www.youtube.com/watch?v=K0mo4X1pOUY)
 - [IA x DEVs: A realidade em 2025](https://youtu.be/qq7alrbaTt0)
 - [O que aconteceu com o CSS?](https://youtu.be/LAA4gMU04zY)
 - [Arquitetura de Software - Como escalo meu código](https://youtu.be/-GnsFbfH3rY)
